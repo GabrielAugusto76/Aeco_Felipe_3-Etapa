@@ -12,7 +12,6 @@ Com a semente `42` e 1000 épocas, o modelo atinge cerca de **96,67% de acuráci
 
 ### Execução no terminal
 
-![Execução do treinamento no terminal](imagens/execucao.png)
 
 *Treinamento de 1000 épocas: a perda (Cross-Entropy) cai de cerca de 1,43 para menos de 0,05, e a acurácia final no conjunto de teste (30 amostras) é de 96,67%.*
 
@@ -120,3 +119,10 @@ O script imprime a perda e a acurácia de treino a cada 100 épocas e, no final,
 - Python
 - NumPy
 - Scikit-Learn (somente para carregamento e preparação dos dados)
+
+- ## Print
+
+- <img width="1377" height="810" alt="image" src="https://github.com/user-attachments/assets/7075b379-1c2d-421a-b759-ceb503d7ce0f" />
+<img width="1374" height="808" alt="image" src="https://github.com/user-attachments/assets/88fa973c-366c-494e-9f59-9cea6a377b27" />
+
+
