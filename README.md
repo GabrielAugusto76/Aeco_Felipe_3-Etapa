@@ -4,6 +4,10 @@ Implementação de uma Rede Neural Artificial com uma camada escondida, constru�
 
 O Scikit-Learn é usado **apenas** para carregar e dividir os dados. Toda a rede (propagação, perda, backpropagation e atualização dos pesos) é feita com operações matriciais do NumPy.
 
+## Nome :
+
+Gabriel Augusto Bedeschi Domingos	241-007248
+
 ## Resultado
 
 Com a semente `42` e 1000 épocas, o modelo atinge cerca de **96,67% de acurácia** no conjunto de teste (29 de 30 amostras corretas).
